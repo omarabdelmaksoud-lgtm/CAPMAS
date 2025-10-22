@@ -1,0 +1,10 @@
+{
+  "HOME": {
+    "TITLE": "Welcome to Our Angular 20 Application",
+    "DESCRIPTION": "This project is built with Angular 20, featuring a clean and scalable structure, full localization support in both English and Arabic, and integrated tooltip functionality for a modern, user-friendly experience."
+  },
+   "HEADER": {
+    "HOME": "Home",
+    "ABOUT": "About us"
+  }
+}
